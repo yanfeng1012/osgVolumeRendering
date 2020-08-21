@@ -1,2 +1,2 @@
-# osgTest
-osgTest
+# osgVolumeRendering
+osgVolumeRendering
